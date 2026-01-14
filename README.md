@@ -26,8 +26,7 @@ Open to Full Stack / Backend / Frontend roles
 🤝 Connect
 
 📧 Email: ss7527767@gmail.com
-💼 LinkedIn: https://www.linkedin.com/
-🌐 Portfolio: https://
+💼 LinkedIn: www.linkedin.com/in/sanni-singh-8a3a92395
 
 Focused on learning, clean code, and building practical systems.
 
