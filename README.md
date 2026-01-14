@@ -18,8 +18,11 @@ Self-taught full stack developer focused on building real-world web applications
 ## 🛠 Tech Stack
 
 **Frontend:** React, Redux Toolkit, Tailwind CSS
+
 **Backend:** Node.js, Express.js, MongoDB
+
 **Languages:** JavaScript, TypeScript, Java
+
 **Tools:** Git, GitHub, Postman, Cloudinary
 
 ---
